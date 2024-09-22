@@ -1,7 +1,8 @@
 # InfoWebsite-NintendoSwitch
- Eine kleine Seite über den technischen Aufbau der Nintendo Switch.
-Aufbau
----------------
+ Eine kleine Seite über den technischen Aufbau der Nintendo Switch.<br/>
+--
+# Aufbau
+
 - Startseite
 - Auswahlmenü
 - Allgemeine Infos
